@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q1",
+    "question": "Which city has the most customers?",
+    "expected": ["sao paulo", 15540]
+  },
+  {
+    "id": "q2",
+    "question": "How many orders are currently delivered?",
+    "expected": [96478]
+  },
+  {
+    "id": "q3",
+    "question": "Which product category has the highest number of orders?",
+    "expected": ["cama_mesa_banho", 9417]
+  },
+  {
+    "id": "q4",
+    "question": "How many customers are there in Sao Paulo?",
+    "expected": [15540]
+  },
+  {
+    "id": "q5",
+    "question": "Which order status has the most orders?",
+    "expected": ["delivered", 96478]
+  },
+  {
+    "id": "q6",
+    "question": "How many products are in the products table?",
+    "expected": [32951]
+  },
+  {
+    "id": "q7",
+    "question": "Which product category has the most products?",
+    "expected": ["cama_mesa_banho", 3029]
+  },
+  {
+    "id": "q8",
+    "question": "How many orders contain more than one item?",
+    "expected": [9803]
+  }
+]
